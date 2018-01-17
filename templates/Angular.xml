@@ -1,0 +1,8 @@
+<templateSet group="Angular">
+  <template name="clog" value="console.log('---------------');&#10;console.log($END$);&#10;console.log('---------------');" description="console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
