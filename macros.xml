@@ -10,5 +10,9 @@
       <action id="EditorDown" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Reformat your code">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
