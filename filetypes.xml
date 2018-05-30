@@ -6,7 +6,6 @@
       <mapping pattern=".nsprc" type="PLAIN_TEXT" />
       <mapping pattern=".m2m" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
     </extensionMap>
